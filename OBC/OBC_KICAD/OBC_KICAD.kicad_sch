@@ -1,0 +1,125 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f")
+	(paper "A4")
+	(lib_symbols)
+	(text "JST \nSWD\nUSB"
+		(exclude_from_sim no)
+		(at 166.37 77.47 0)
+		(effects
+			(font
+				(face "Stencil")
+				(size 11.43 11.43)
+				(color 18 91 0 1)
+			)
+			(href "#3")
+		)
+		(uuid "4a53ece8-3a10-40e3-a0aa-169b614592d7")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 83.058 77.47 0)
+		(effects
+			(font
+				(face "Stencil")
+				(size 11.43 11.43)
+				(bold yes)
+				(color 0 99 43 1)
+			)
+			(href "#2")
+		)
+		(uuid "c2e1d2bd-805d-4431-887c-bd5144946593")
+	)
+	(sheet
+		(at 58.42 59.69)
+		(size 50.8 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "01e0d481-97c3-4f82-b463-3a89e8364953")
+		(property "Sheetname" "Microcontrolador"
+			(at 58.42 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontrolador.kicad_sch"
+			(at 58.42 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OBC_KICAD"
+				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 44.45)
+		(size 57.15 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "709184b9-2641-4adb-9bb3-7646cf8c1857")
+		(property "Sheetname" "JST_SWD_USB"
+			(at 137.16 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JST_Debugger.kicad_sch"
+			(at 137.16 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OBC_KICAD"
+				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
