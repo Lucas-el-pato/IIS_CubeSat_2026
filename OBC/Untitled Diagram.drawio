@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition ms_store_gx)" version="29.6.1">
   <diagram name="Page-1" id="mULKFPPGtE22BMvXGQJd">
-    <mxGraphModel dx="1236" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,11 +87,11 @@
         <mxCell id="OGagmTHAynPMvtp_Ma1E-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FF0080);" value="MAG&lt;div&gt;TRQ&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="60" x="160" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="OGagmTHAynPMvtp_Ma1E-18" edge="1" parent="1" source="OGagmTHAynPMvtp_Ma1E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.665;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" target="OGagmTHAynPMvtp_Ma1E-5">
+        <mxCell id="OGagmTHAynPMvtp_Ma1E-18" edge="1" parent="1" source="OGagmTHAynPMvtp_Ma1E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.63;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="OGagmTHAynPMvtp_Ma1E-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="445" y="360" />
-              <mxPoint x="372" y="360" />
+              <mxPoint x="374" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -226,6 +226,17 @@
         </mxCell>
         <mxCell id="OGagmTHAynPMvtp_Ma1E-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VCC" vertex="1">
           <mxGeometry height="30" width="60" x="160" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RDDx-ypFLw0071dKGnNB-2" edge="1" parent="1" source="RDDx-ypFLw0071dKGnNB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="OGagmTHAynPMvtp_Ma1E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDDx-ypFLw0071dKGnNB-3" connectable="0" parent="RDDx-ypFLw0071dKGnNB-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SDIO" vertex="1">
+          <mxGeometry relative="1" x="-0.0471" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDDx-ypFLw0071dKGnNB-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#7F1A73);" value="Memoria SD" vertex="1">
+          <mxGeometry height="60" width="60" x="260" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
