@@ -3650,6 +3650,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 64.77) (xy 95.25 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "010cf2b7-08e5-4c7e-90e2-912515f6f4d2")
+	)
+	(wire
+		(pts
 			(xy 220.98 35.56) (xy 220.98 55.88)
 		)
 		(stroke
@@ -3667,6 +3677,16 @@
 			(type default)
 		)
 		(uuid "01ef217a-172a-4caa-a881-e2ae1fcebe43")
+	)
+	(wire
+		(pts
+			(xy 139.7 88.9) (xy 140.97 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04e46862-2387-444e-9315-b384c2a53bcf")
 	)
 	(wire
 		(pts
@@ -3780,6 +3800,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 92.71) (xy 147.32 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13eff0fd-eab3-4c7e-9b34-2aadd2cc16ce")
+	)
+	(wire
+		(pts
 			(xy 53.34 34.29) (xy 41.91 34.29)
 		)
 		(stroke
@@ -3817,6 +3847,16 @@
 			(type default)
 		)
 		(uuid "1e58b2b1-cc97-4f1b-84b2-58c00cf30bd8")
+	)
+	(wire
+		(pts
+			(xy 80.01 67.31) (xy 95.25 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2116cd8c-8d05-4cec-ba1d-7b8a8707baae")
 	)
 	(wire
 		(pts
@@ -3890,6 +3930,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 92.71) (xy 147.32 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30752629-78f0-40f0-aa78-a5298a36a958")
+	)
+	(wire
+		(pts
 			(xy 250.19 44.45) (xy 252.73 44.45)
 		)
 		(stroke
@@ -3897,6 +3947,16 @@
 			(type default)
 		)
 		(uuid "33753a9b-57d0-488d-ab06-9e51647fcb2b")
+	)
+	(wire
+		(pts
+			(xy 135.89 97.79) (xy 142.24 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34ccfe67-b72c-4ce3-97b0-c0d9c5e6fa66")
 	)
 	(wire
 		(pts
@@ -3960,6 +4020,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 74.93) (xy 95.25 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c953956-cd8d-47bc-a4b7-301c3f9b46fb")
+	)
+	(wire
+		(pts
 			(xy 176.53 140.97) (xy 176.53 138.43)
 		)
 		(stroke
@@ -3987,6 +4057,16 @@
 			(type default)
 		)
 		(uuid "3ff37175-88c3-473d-b13c-929ac73f73b2")
+	)
+	(wire
+		(pts
+			(xy 91.44 81.28) (xy 91.44 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41d83188-b9d4-49ef-a694-230681d736d1")
 	)
 	(wire
 		(pts
@@ -4047,6 +4127,16 @@
 			(type default)
 		)
 		(uuid "4a2db34c-f18b-49e5-bbe9-cb16d793cd43")
+	)
+	(wire
+		(pts
+			(xy 35.56 17.78) (xy 30.48 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a6a5938-b8df-4aa4-a728-e28bad65ab55")
 	)
 	(wire
 		(pts
@@ -4177,6 +4267,16 @@
 			(type default)
 		)
 		(uuid "5afa9e6b-c110-4ea8-a056-a84ceed366a1")
+	)
+	(wire
+		(pts
+			(xy 135.89 90.17) (xy 138.43 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e6611e1-27d9-47f1-afc5-73f621b3858b")
 	)
 	(wire
 		(pts
@@ -4420,6 +4520,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 93.98) (xy 148.59 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78a7db6f-339b-4d10-b502-fb531956d61e")
+	)
+	(wire
+		(pts
 			(xy 44.45 55.88) (xy 48.26 55.88)
 		)
 		(stroke
@@ -4437,6 +4547,16 @@
 			(type default)
 		)
 		(uuid "7a21d0e7-d646-405c-92e9-7851f7293ffb")
+	)
+	(wire
+		(pts
+			(xy 139.7 87.63) (xy 139.7 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a633a72-8ca7-4ea3-9739-c1f1df880bac")
 	)
 	(wire
 		(pts
@@ -4540,6 +4660,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 81.28) (xy 91.44 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90891c16-d615-4845-a0d3-9529d654d8cb")
+	)
+	(wire
+		(pts
 			(xy 245.11 135.89) (xy 245.11 138.43)
 		)
 		(stroke
@@ -4640,6 +4770,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 82.55) (xy 95.25 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a280a1e7-95a3-47f9-ac71-5757f9405a5e")
+	)
+	(wire
+		(pts
 			(xy 184.15 53.34) (xy 187.96 53.34)
 		)
 		(stroke
@@ -4677,16 +4817,6 @@
 			(type default)
 		)
 		(uuid "a9382730-62bb-4060-90ae-2f11278779c8")
-	)
-	(wire
-		(pts
-			(xy 30.48 22.86) (xy 30.48 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9690bf9-969c-4240-b103-1cb4d12f97b2")
 	)
 	(wire
 		(pts
@@ -4730,6 +4860,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 76.2) (xy 92.71 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1754efe-e610-4417-80c8-74dbd4c82c6c")
+	)
+	(wire
+		(pts
 			(xy 52.07 63.5) (xy 57.15 63.5)
 		)
 		(stroke
@@ -4750,6 +4890,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 76.2) (xy 92.71 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c353b7-40df-464f-bdce-6e36fba2bc19")
+	)
+	(wire
+		(pts
 			(xy 187.96 53.34) (xy 193.04 53.34)
 		)
 		(stroke
@@ -4760,6 +4910,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 91.44) (xy 148.59 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b91b87b0-ae6f-455a-a310-174098cffc07")
+	)
+	(wire
+		(pts
 			(xy 140.97 57.15) (xy 135.89 57.15)
 		)
 		(stroke
@@ -4767,6 +4927,16 @@
 			(type default)
 		)
 		(uuid "ba44c5a1-b92c-4550-9daf-d89e6df96c0c")
+	)
+	(wire
+		(pts
+			(xy 138.43 90.17) (xy 138.43 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baea2c9c-8bbd-481a-a916-701fb040baf2")
 	)
 	(wire
 		(pts
@@ -4787,6 +4957,16 @@
 			(type default)
 		)
 		(uuid "be6cf77c-6a93-49d0-baff-36d54b456396")
+	)
+	(wire
+		(pts
+			(xy 135.89 87.63) (xy 139.7 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf58506f-b168-40c8-8544-3ca693d1b783")
 	)
 	(wire
 		(pts
@@ -4927,6 +5107,16 @@
 			(type default)
 		)
 		(uuid "d6d92a80-550d-4cc8-b8fe-3cddbfb2c526")
+	)
+	(wire
+		(pts
+			(xy 30.48 17.78) (xy 30.48 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9d4199a-f797-4928-947b-d62398597a90")
 	)
 	(wire
 		(pts
@@ -5254,6 +5444,72 @@
 			)
 		)
 	)
+	(global_label "VCC_OBC"
+		(shape input)
+		(at 35.56 17.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "190fd928-9a29-41d7-9460-bc26d25062d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.0119 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN2P2"
+		(shape input)
+		(at 80.01 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c886541-e8b3-417a-9649-89df74b90575")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 70.8563 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "WDI"
+		(shape input)
+		(at 142.24 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "205dd09c-deb8-4b2f-8913-961c634a599f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.5514 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "TX_VTX"
 		(shape input)
 		(at 142.24 64.77 0)
@@ -5273,6 +5529,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN1P1"
+		(shape input)
+		(at 91.44 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "34309af0-e0b2-405e-97b3-0eab496babaf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.2863 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5409,6 +5687,28 @@
 			)
 		)
 	)
+	(global_label "EN1OBC"
+		(shape input)
+		(at 90.17 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "503d1dda-d4ee-4726-8e7e-f27234fcd990")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 79.6253 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MISO_IMU"
 		(shape bidirectional)
 		(at 140.97 57.15 0)
@@ -5449,6 +5749,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PB2"
+		(shape input)
+		(at 148.59 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5596c560-86bb-4083-b5b8-034480ee4535")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.3247 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5511,6 +5833,50 @@
 		(uuid "67aeb1c4-afa4-4bdc-bef8-bd3a619ee7f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 153.9942 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NRST"
+		(shape input)
+		(at 86.36 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73483694-7105-4d6b-b92f-ee0daa4d844e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.5972 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PB1"
+		(shape input)
+		(at 140.97 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fb0a7f3-fa5e-4aa3-823c-7c0c7eec8b85")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.7047 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5785,6 +6151,28 @@
 			)
 		)
 	)
+	(global_label "PB3"
+		(shape input)
+		(at 148.59 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5fd25d9-55ec-4f1a-9111-8125063fc7d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.3247 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ELRS_UART_TX"
 		(shape input)
 		(at 140.97 41.91 0)
@@ -5884,7 +6272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06860534-6781-4ab3-a41f-e8184b77fd89")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0101"
 			(at 142.24 173.99 0)
 			(effects
 				(font
@@ -5934,7 +6322,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -5956,7 +6344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0831b8c9-7337-4be4-949c-e1d27623e78d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0102"
 			(at 90.17 176.53 0)
 			(effects
 				(font
@@ -6006,7 +6394,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -6028,7 +6416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0930f61b-b9e6-4b4c-9890-0bbf8e275219")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0103"
 			(at 76.2 128.27 0)
 			(effects
 				(font
@@ -6078,85 +6466,13 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
 			(project "Esquematico_1"
 				(path "/de2d80c1-c21c-478d-b724-17659b714c38/65191e46-6d87-4ab8-a02b-a5dd631b354a"
 					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 30.48 22.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0df49e41-a68d-470a-9d18-93d5431102c8")
-		(property "Reference" "#PWR?"
-			(at 30.48 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 30.48 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 30.48 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 30.48 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "123d5055-5316-401b-8300-5b0498a66a7e")
-		)
-		(instances
-			(project "OBC_KICAD"
-				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/de2d80c1-c21c-478d-b724-17659b714c38/65191e46-6d87-4ab8-a02b-a5dd631b354a"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -6172,7 +6488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e39459d-1a0d-4e15-95cb-cd3ea2c775cb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0112"
 			(at 33.02 57.15 0)
 			(effects
 				(font
@@ -6222,7 +6538,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -6244,7 +6560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fa8cb57-c276-4453-acba-77c35cf593d4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0108"
 			(at 176.53 142.24 0)
 			(effects
 				(font
@@ -6294,7 +6610,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -6315,7 +6631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20b242b8-49b2-426d-80d3-1e7bfa566be3")
-		(property "Reference" "R?"
+		(property "Reference" "R3"
 			(at 211.836 30.734 0)
 			(effects
 				(font
@@ -6370,7 +6686,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -6391,7 +6707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20b7cae6-6863-4eda-84bc-1eaae7d35df6")
-		(property "Reference" "C?"
+		(property "Reference" "C17"
 			(at 246.634 139.954 0)
 			(effects
 				(font
@@ -6445,7 +6761,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -6466,7 +6782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23753d84-6177-43d4-8f7f-439a2a09792a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0121"
 			(at 257.81 33.02 0)
 			(effects
 				(font
@@ -6516,7 +6832,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -6537,7 +6853,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "259abf43-7de5-4f8f-9ef9-a77c00ad92e8")
-		(property "Reference" "C?"
+		(property "Reference" "C14"
 			(at 142.748 27.94 0)
 			(effects
 				(font
@@ -6591,7 +6907,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -6613,7 +6929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28302841-d3d9-4736-b5dc-8f3d423195b9")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 34.29 27.0509 0)
 			(effects
 				(font
@@ -6667,7 +6983,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -6688,7 +7004,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d4a4182-0fa7-4618-bfb7-0203489781d3")
-		(property "Reference" "C?"
+		(property "Reference" "C4"
 			(at 56.642 27.178 0)
 			(effects
 				(font
@@ -6742,7 +7058,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6764,7 +7080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f908e78-a04d-4c67-871d-9d5cbe2ae2e4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0105"
 			(at 115.57 140.97 0)
 			(effects
 				(font
@@ -6814,7 +7130,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -6835,7 +7151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32f86285-a20e-4196-8063-1a4676fad15d")
-		(property "Reference" "C?"
+		(property "Reference" "C10"
 			(at 91.948 114.3 0)
 			(effects
 				(font
@@ -6889,7 +7205,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -6911,7 +7227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35f15247-a1da-4015-89ec-bbc02ee36564")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0113"
 			(at 52.07 72.39 0)
 			(effects
 				(font
@@ -6962,7 +7278,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -6983,7 +7299,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36065e68-8547-4b6a-be20-ba868d78ab86")
-		(property "Reference" "C?"
+		(property "Reference" "C6"
 			(at 68.072 27.178 0)
 			(effects
 				(font
@@ -7037,7 +7353,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -7058,7 +7374,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "367a138f-33de-4466-ae8e-87b3f46f3aab")
-		(property "Reference" "R?"
+		(property "Reference" "R5"
 			(at 216.916 30.734 0)
 			(effects
 				(font
@@ -7113,7 +7429,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7134,7 +7450,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a9440bf-bdc9-41c5-af7d-2495e8a71fa9")
-		(property "Reference" "SwBoot?"
+		(property "Reference" "SwBoot1"
 			(at 185.42 150.114 0)
 			(effects
 				(font
@@ -7190,7 +7506,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "SwBoot?")
+					(reference "SwBoot1")
 					(unit 1)
 				)
 			)
@@ -7211,7 +7527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e68052f-4a43-48fd-a087-c5717f78de81")
-		(property "Reference" "C?"
+		(property "Reference" "C12"
 			(at 131.826 27.686 0)
 			(effects
 				(font
@@ -7265,7 +7581,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -7287,7 +7603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fcdf2f3-db9d-4a94-add3-2c97737081b6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0107"
 			(at 233.68 154.94 0)
 			(effects
 				(font
@@ -7337,7 +7653,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -7359,7 +7675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "410300e1-13bd-461b-92ca-8d0afa69f5ac")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0116"
 			(at 149.86 26.67 0)
 			(effects
 				(font
@@ -7409,7 +7725,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -7431,7 +7747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4134e52c-aef3-4c18-abab-aa4da3b271e8")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0117"
 			(at 252.73 68.58 0)
 			(effects
 				(font
@@ -7481,7 +7797,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -7502,7 +7818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "455f8ba5-ac49-436a-83fb-8506f01659b2")
-		(property "Reference" "C?"
+		(property "Reference" "C9"
 			(at 89.154 26.924 0)
 			(effects
 				(font
@@ -7556,7 +7872,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -7577,7 +7893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4938bd6d-f56d-4b1d-aca6-303566d90bfe")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0110"
 			(at 63.5 57.15 0)
 			(effects
 				(font
@@ -7628,7 +7944,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -7650,7 +7966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516a110d-107c-4f2b-a2b1-4e110b8c670c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0109"
 			(at 177.8 154.94 0)
 			(effects
 				(font
@@ -7700,7 +8016,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -7721,7 +8037,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "53c9cff6-eb46-4c03-b15a-9d00af31fbd3")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 45.212 27.178 0)
 			(effects
 				(font
@@ -7775,7 +8091,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -7797,7 +8113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54518a17-5a4b-4a9c-8bbb-d43337a48c9e")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 120.2533 130.81 0)
 			(effects
 				(font
@@ -8038,7 +8354,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "U?")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -8059,7 +8375,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d5f3d74-882e-4e13-a401-fddd033fdf68")
-		(property "Reference" "C?"
+		(property "Reference" "C8"
 			(at 79.248 114.3 0)
 			(effects
 				(font
@@ -8113,7 +8429,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8135,7 +8451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "678e1d77-5750-4ba8-ac28-761c7a1542df")
-		(property "Reference" "CARD?"
+		(property "Reference" "CARD1"
 			(at 240.03 30.48 0)
 			(effects
 				(font
@@ -8259,7 +8575,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "CARD?")
+					(reference "CARD1")
 					(unit 1)
 				)
 			)
@@ -8281,7 +8597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69f4de72-4f36-42b1-8ee8-15f303f1f511")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0120"
 			(at 204.47 29.21 0)
 			(effects
 				(font
@@ -8331,7 +8647,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -8353,7 +8669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c235b30-bb65-4812-8fd8-fb05f484e600")
-		(property "Reference" "Y?"
+		(property "Reference" "Y1"
 			(at 116.84 149.86 0)
 			(effects
 				(font
@@ -8463,7 +8779,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "Y?")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -8485,7 +8801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7aee3bf0-a6ee-4eec-aa62-a172b02ee33d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0118"
 			(at 187.96 62.23 0)
 			(effects
 				(font
@@ -8536,7 +8852,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -8557,7 +8873,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b44d263-7e11-4bde-bfc6-e478beaea41c")
-		(property "Reference" "C?"
+		(property "Reference" "C5"
 			(at 54.864 62.484 0)
 			(effects
 				(font
@@ -8609,7 +8925,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -8630,7 +8946,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ec4e1d8-abbb-4141-bcb1-39c8f91d8502")
-		(property "Reference" "R?"
+		(property "Reference" "R4"
 			(at 214.376 30.734 0)
 			(effects
 				(font
@@ -8685,7 +9001,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -8706,7 +9022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f890f6d-2a49-430e-a67b-81559c282463")
-		(property "Reference" "C?"
+		(property "Reference" "C15"
 			(at 181.356 52.324 0)
 			(effects
 				(font
@@ -8758,7 +9074,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -8780,7 +9096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90d8ce84-e1b6-462e-8b2b-8f8a91150d96")
-		(property "Reference" "C?"
+		(property "Reference" "C11"
 			(at 93.98 162.5599 0)
 			(effects
 				(font
@@ -8834,7 +9150,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8855,7 +9171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "933ce2c5-b766-49d8-95f1-cd31283ff753")
-		(property "Reference" "C?"
+		(property "Reference" "C16"
 			(at 190.754 52.324 0)
 			(effects
 				(font
@@ -8907,7 +9223,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -8928,7 +9244,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a004d9b-ab1a-484c-9aab-d8c029d3b325")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0115"
 			(at 139.7 40.64 0)
 			(effects
 				(font
@@ -8978,7 +9294,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -8999,7 +9315,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a09dda12-8dc5-4693-bcbd-51b6ea572de4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0111"
 			(at 87.63 41.91 0)
 			(effects
 				(font
@@ -9049,7 +9365,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -9071,7 +9387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a270cee4-ad3d-488c-9a8a-7e221b55e283")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0106"
 			(at 245.11 154.94 0)
 			(effects
 				(font
@@ -9121,7 +9437,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -9143,7 +9459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab05f259-1436-4ec6-a965-5d91259b0d75")
-		(property "Reference" "FB?"
+		(property "Reference" "FB1"
 			(at 40.5892 48.26 90)
 			(effects
 				(font
@@ -9195,7 +9511,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "FB?")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -9217,7 +9533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af409523-891f-44e2-84a6-896857dd8ed2")
-		(property "Reference" "C?"
+		(property "Reference" "C13"
 			(at 146.05 160.0199 0)
 			(effects
 				(font
@@ -9271,7 +9587,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -9293,7 +9609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c16b5a76-74ea-460a-b001-ca286df55502")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0119"
 			(at 185.42 45.72 0)
 			(effects
 				(font
@@ -9344,7 +9660,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -9365,7 +9681,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4e9952b-282f-4656-a71d-80246f6a9c47")
-		(property "Reference" "R?"
+		(property "Reference" "R6"
 			(at 219.456 30.734 0)
 			(effects
 				(font
@@ -9420,7 +9736,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -9442,7 +9758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6daadc5-9842-4df8-9ca0-b38195c1b7f8")
-		(property "Reference" "R?"
+		(property "Reference" "R1"
 			(at 198.12 137.16 90)
 			(effects
 				(font
@@ -9494,7 +9810,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9515,7 +9831,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7cdbe54-a867-49b8-8359-a07488342c41")
-		(property "Reference" "C?"
+		(property "Reference" "C3"
 			(at 45.466 62.484 0)
 			(effects
 				(font
@@ -9567,7 +9883,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -9589,7 +9905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9e6861e-9985-492d-ae59-21ac90666b6c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0104"
 			(at 88.9 128.27 0)
 			(effects
 				(font
@@ -9639,7 +9955,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "#PWR?")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -9661,7 +9977,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec4da006-474e-431e-91c0-435a7fcbf6bd")
-		(property "Reference" "SwReset?"
+		(property "Reference" "SwReset1"
 			(at 224.79 138.684 90)
 			(effects
 				(font
@@ -9716,7 +10032,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "SwReset?")
+					(reference "SwReset1")
 					(unit 1)
 				)
 			)
@@ -9737,7 +10053,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f69d18c2-6286-4af5-9af0-ea195859a90c")
-		(property "Reference" "C?"
+		(property "Reference" "C7"
 			(at 79.502 27.178 0)
 			(effects
 				(font
@@ -9791,7 +10107,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "C?")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9813,7 +10129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f80934de-bd1d-44f8-88b3-ea1113b7af99")
-		(property "Reference" "R?"
+		(property "Reference" "R7"
 			(at 255.27 36.8299 0)
 			(effects
 				(font
@@ -9867,7 +10183,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9888,7 +10204,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9e33cc8-eca6-495e-81b6-092edc0eb17f")
-		(property "Reference" "R?"
+		(property "Reference" "R2"
 			(at 209.296 30.734 0)
 			(effects
 				(font
@@ -9942,7 +10258,7 @@
 		(instances
 			(project "OBC_KICAD"
 				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f/01e0d481-97c3-4f82-b463-3a89e8364953"
-					(reference "R?")
+					(reference "R2")
 					(unit 1)
 				)
 			)

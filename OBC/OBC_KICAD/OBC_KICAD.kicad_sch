@@ -75,6 +75,65 @@
 		)
 	)
 	(sheet
+		(at 62.23 116.84)
+		(size 58.42 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4722e88a-643d-4a1f-a4dc-caea63f82dcc")
+		(property "Sheetname" "WatchDog"
+			(at 62.23 116.1284 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 62.23 146.6346 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+				(justify left top)
+			)
+		)
+		(property "WatchDog" "Watchdog"
+			(at 91.44 130.81 0)
+			(effects
+				(font
+					(size 5.08 5.08)
+					(thickness 1.016)
+					(bold yes)
+				)
+			)
+		)
+		(instances
+			(project "OBC_KICAD"
+				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 137.16 44.45)
 		(size 57.15 63.5)
 		(exclude_from_sim no)

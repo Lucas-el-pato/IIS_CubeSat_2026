@@ -1,0 +1,4 @@
+17:24:53: Font 'Stencil' not found; substituting 'Verdana Regular'.
+17:24:53: Font 'Stencil' not found; substituting 'Verdana Bold'.
+17:24:53: Font 'Stencil' not found; substituting 'Verdana Regular'.
+17:24:53: Font 'Stencil' not found; substituting 'Verdana Bold'.
