@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.5,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -51,7 +51,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -116,7 +122,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.09,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -129,8 +135,8 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
-        "min_via_annular_width": 0.1,
+        "min_track_width": 0.09,
+        "min_via_annular_width": 0.2,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -179,7 +185,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -206,7 +214,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -417,8 +430,8 @@
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
-      "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "warning",
+      "lib_symbol_issues": "ignore",
+      "lib_symbol_mismatch": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -467,10 +480,66 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
+        "track_width": 0.3,
+        "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.0,
+        "diff_pair_width": 0.0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "GND",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.4,
+        "via_drill": 0.2
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.0,
+        "diff_pair_width": 0.0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Signals",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.146,
+        "diff_pair_width": 0.1,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB_DIFF",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1,
+        "via_diameter": 0.7,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -478,7 +547,164 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "USB_DIFF",
+        "pattern": "USB_D-"
+      },
+      {
+        "netclass": "USB_DIFF",
+        "pattern": "USB_D+"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "RX"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "TX"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SCL"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SDA"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "MISO"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SCK"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "MOSI"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "CS"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "Enable_EPStoOBC"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "En_P1"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "En_P2"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "En_ADC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VCC_OBC"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "IEPS"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "NRST"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "WDI"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SWDIO"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SWCLK"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "NRST_PROGRAM"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "CC1"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "CC2"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "EN_COMM"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "RST_PAY1"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "RST_PAY2"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "HSE_IN"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "HSE_OUT"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "BOOT0"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "RESET"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "CardDetect"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SDIO_D1"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SDIO_D0"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SDIO_CLK"
+      },
+      {
+        "netclass": "Signals",
+        "pattern": "SDIO_CMD"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "SDIO_D3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "SDIO_D2"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -668,7 +894,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../../../Downloads/Diseño1P_Garcia_Sopino_IIS/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -695,6 +921,10 @@
     [
       "4722e88a-643d-4a1f-a4dc-caea63f82dcc",
       "WatchDog"
+    ],
+    [
+      "59c3cbeb-5e3a-44ea-bd60-3b50c390fcfd",
+      "Pines de Entrada y Salida Al circuito"
     ]
   ],
   "text_variables": {}

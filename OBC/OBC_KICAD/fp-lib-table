@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esc_cristal")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/ul_ECS-80-12-30BQ-JES-TR/ul_ECS-80-12-30BQ-JES-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

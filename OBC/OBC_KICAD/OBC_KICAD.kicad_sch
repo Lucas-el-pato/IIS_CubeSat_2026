@@ -7,7 +7,7 @@
 	(lib_symbols)
 	(text "JST \nSWD\nUSB"
 		(exclude_from_sim no)
-		(at 166.37 77.47 0)
+		(at 137.16 49.53 0)
 		(effects
 			(font
 				(face "Stencil")
@@ -20,7 +20,7 @@
 	)
 	(text "MCU"
 		(exclude_from_sim no)
-		(at 83.058 77.47 0)
+		(at 53.848 49.53 0)
 		(effects
 			(font
 				(face "Stencil")
@@ -33,7 +33,7 @@
 		(uuid "c2e1d2bd-805d-4431-887c-bd5144946593")
 	)
 	(sheet
-		(at 58.42 59.69)
+		(at 29.21 31.75)
 		(size 50.8 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49,7 +49,7 @@
 		)
 		(uuid "01e0d481-97c3-4f82-b463-3a89e8364953")
 		(property "Sheetname" "Microcontrolador"
-			(at 58.42 58.9784 0)
+			(at 29.21 31.0384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,7 +58,7 @@
 			)
 		)
 		(property "Sheetfile" "microcontrolador.kicad_sch"
-			(at 58.42 90.7546 0)
+			(at 29.21 62.8146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,8 +75,8 @@
 		)
 	)
 	(sheet
-		(at 62.23 116.84)
-		(size 58.42 22.86)
+		(at 19.05 85.09)
+		(size 85.09 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -90,7 +90,7 @@
 		)
 		(uuid "4722e88a-643d-4a1f-a4dc-caea63f82dcc")
 		(property "Sheetname" "WatchDog"
-			(at 62.23 116.1284 0)
+			(at 19.05 84.3784 0)
 			(show_name yes)
 			(effects
 				(font
@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 62.23 146.6346 0)
+			(at 19.05 114.8846 0)
 			(show_name yes)
 			(effects
 				(font
@@ -115,8 +115,8 @@
 				(justify left top)
 			)
 		)
-		(property "WatchDog" "Watchdog"
-			(at 91.44 130.81 0)
+		(property "WatchDog" "    Watchdog n' OCP"
+			(at 48.26 99.06 0)
 			(effects
 				(font
 					(size 5.08 5.08)
@@ -134,7 +134,58 @@
 		)
 	)
 	(sheet
-		(at 137.16 44.45)
+		(at 144.78 93.98)
+		(size 106.68 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "59c3cbeb-5e3a-44ea-bd60-3b50c390fcfd")
+		(property "Sheetname" "Pines de Entrada y Salida Al circuito"
+			(at 144.78 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pines de Interfaz.kicad_sch"
+			(at 144.78 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" "             Pines de Interfaz"
+			(at 180.848 108.966 0)
+			(effects
+				(font
+					(size 4.318 4.318)
+					(thickness 0.8636)
+					(bold yes)
+				)
+			)
+		)
+		(instances
+			(project "OBC_KICAD"
+				(path "/6db8dc25-5ab8-4f32-8d05-e8d57edb0b6f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 16.51)
 		(size 57.15 63.5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -150,7 +201,7 @@
 		)
 		(uuid "709184b9-2641-4adb-9bb3-7646cf8c1857")
 		(property "Sheetname" "JST_SWD_USB"
-			(at 137.16 43.7384 0)
+			(at 107.95 15.7984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -159,7 +210,7 @@
 			)
 		)
 		(property "Sheetfile" "JST_Debugger.kicad_sch"
-			(at 137.16 108.5346 0)
+			(at 107.95 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
